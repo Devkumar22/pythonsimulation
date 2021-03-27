@@ -2,8 +2,10 @@
 import random
 
 startingpopulation=50
-infantmortality=25      
-agriculture=5               #i person produces food for 5
+
+infantmortality=25
+
+agriculture=5        #1 person produces food for 5
 disasterchance=10
 food=0
 fertilityx=18           #age of getting pregnant
